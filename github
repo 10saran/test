@@ -1,2 +1,4 @@
-hiii hello "welcome to new learning"
-this file for add and to check the commit
+a=10
+b=27
+c=a+b
+print(c)
